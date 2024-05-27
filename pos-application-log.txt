@@ -1,0 +1,8 @@
+Exception occurred: Item with ID: 99999 not found in inventory.
+Time: 2024-05-25 19:22:36
+se.kth.iv1350.pos.integration.InventorySystem.findItem(InventorySystem.java:64)
+se.kth.iv1350.pos.controller.Controller.enterItem(Controller.java:65)
+se.kth.iv1350.pos.view.View.registerItem(View.java:83)
+se.kth.iv1350.pos.view.View.sampleExecution(View.java:62)
+se.kth.iv1350.pos.startup.Main.main(Main.java:31)
+
